@@ -1,1 +1,1 @@
-# Meu primeiro porfólio feito em HTML, CSS e JavaScript
+# Meu primeiro portfólio feito em HTML, CSS e JavaScript
